@@ -46,16 +46,16 @@ const Hero = () => {
             Connect with me 
           </a>
         </div>
-        <div className="hero-resume">
-{/*           <a
+{/*         <div className="hero-resume">
+          <a
             href="https://fuchsia-bibbie-8.tiiny.site/"
             target="_blank"
             rel="noopener noreferrer"
             className="r-link"
-          > */}
+          >
             My Resume
           </a>
-        </div>
+        </div> */}
       </div>
     </div>
   );
