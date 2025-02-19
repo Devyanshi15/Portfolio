@@ -47,12 +47,12 @@ const Hero = () => {
           </a>
         </div>
         <div className="hero-resume">
-          <a
+{/*           <a
             href="https://fuchsia-bibbie-8.tiiny.site/"
             target="_blank"
             rel="noopener noreferrer"
             className="r-link"
-          >
+          > */}
             My Resume
           </a>
         </div>
